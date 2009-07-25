@@ -1,0 +1,24 @@
+voir qt animation framework
+http://labs.trolltech.com/blogs/2008/11/05/qt-animation-framework/
+http://trolltech.com/products/appdev/add-on-products/catalog/4/Utilities/qtanimationframework
+New (and last?) QtAnimationFramework Solution
+http://labs.trolltech.com/blogs/2009/03/27/new-and-last-qtanimationframework-solution/
+voir le jeu de sous marin, et surtout choper les sources, normalement on peut les trouver
+
+
+
+voir qt state machine
+les libs sont installées dans le projet
+http://www.qtsoftware.com/products/appdev/add-on-products/catalog/4/Utilities/qt-state-machine-framework/
+
+
+les 2 ensemble
+http://labs.trolltech.com/blogs/2009/04/01/writing-a-game-with-the-animation-and-the-state-machine-api/
+
+
+
+http://labs.trolltech.com/blogs/2008/11/05/qt-animation-framework/
+http://trolltech.com/products/appdev/add-on-products/catalog/4/Utilities/qtanimationframework
+http://labs.trolltech.com/blogs/2009/03/27/new-and-last-qtanimationframework-solution/
+http://www.qtsoftware.com/products/appdev/add-on-products/catalog/4/Utilities/qt-state-machine-framework/
+http://labs.trolltech.com/blogs/2009/04/01/writing-a-game-with-the-animation-and-the-state-machine-api/

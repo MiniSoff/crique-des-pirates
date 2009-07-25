@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="623.29077"
+   height="556.35736"
+   id="svg3183"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="pirateMapIsland5_equipage.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs3185">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3191" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="640"
+     inkscape:window-height="667"
+     inkscape:window-x="427"
+     inkscape:window-y="5" />
+  <metadata
+     id="metadata3188">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-81.211775,-129.8978)">
+    <path
+       style="opacity:1;fill:#ffff00;fill-rule:nonzero;stroke:#000000;stroke-width:4.54603434000000030;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 209.50215,674.71976 C 198.31886,672.23475 168.46268,666.87531 143.15489,662.81022 L 97.140691,655.419 L 91.877729,609.35581 C 88.983084,584.02112 85.91054,556.9918 85.049832,549.29081 L 83.484792,535.2889 L 124.45053,504.82022 C 146.98152,488.06231 165.9947,473.72625 166.70136,472.96224 C 169.14362,470.32213 200.14363,417.63826 198.51441,416.27733 C 197.16043,415.14616 168.54735,370.19907 130.34797,383.43731 C 125.33027,385.17604 134.11417,370.9695 178.22186,306.00683 C 178.65167,305.374 257.68713,332.69027 268.36015,335.75881 C 279.03319,338.82745 314.86104,321.86236 315.40752,321.27163 C 315.95402,320.6809 406.4286,294.12963 407.3099,292.69059 L 505.61199,132.17082 C 560.77625,185.00691 643.98068,161.97144 678.73852,222.65785 C 714.96314,285.90517 698.95656,683.87364 697.21545,683.98 C 695.47388,684.08646 238.19178,680.16385 231.56173,679.42965 C 230.61233,679.32462 220.68546,677.2051 209.50216,674.71987 L 209.50215,674.71976 z"
+       id="path2400"
+       sodipodi:nodetypes="cccccccssssssscssscc" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="334.35461"
+       y="463.39801"
+       id="text2380"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2382"
+         x="334.35461"
+         y="463.39801">Equipage</tspan></text>
+    <path
+       style="fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 180,427.78593 C 183.64244,436.60984 182.85714,469.22489 182.85714,487.78593 C 182.85714,510.82289 244.80905,497.29795 260,493.50022 C 295.82098,484.54497 334.23725,470.64308 371.42857,470.64308 C 402.24855,470.64308 435.76332,461.81535 460,476.35736 C 480.46765,488.63795 489.21665,499.76748 514.28571,493.50022 C 535.35398,488.23315 540,447.81428 540,430.64308 C 540,391.87801 530.07509,366.73281 522.85714,330.64308 C 518.37631,308.23891 514.28571,291.10242 514.28571,267.78593 C 514.28571,252.18363 527.13882,224.94494 531.42857,207.78593 C 535.82257,190.20994 531.51533,167.87269 522.85714,159.2145 C 507.57821,143.93557 509.59025,139.46921 485.71429,133.50022 C 469.6691,129.48892 457.372,141.84251 448.57143,150.64308 C 436.22935,162.98515 431.42857,190.33949 431.42857,207.78593 C 431.42857,226.10136 430.13673,245.47572 434.28571,262.07165 C 439.54058,283.09109 445.71429,296.88617 445.71429,319.2145 C 445.71429,338.08604 444.78474,349.64503 437.14286,364.92879 C 432.12591,374.96269 395.82389,370.64308 385.71429,370.64308 C 366.31862,370.64308 353.57339,370.28691 337.14286,362.07165 C 325.79184,356.39614 310.94706,353.50022 294.28571,353.50022 C 270.60547,353.50022 261.58509,364.61576 254.28571,379.2145 C 250.68568,386.41456 214.95792,384.92879 205.71429,384.92879 C 185.82277,384.92879 180,380.92978 180,402.07165 C 180,410.64308 180,419.2145 180,427.78593 z"
+       id="path2382"
+       transform="translate(81.211775,129.8978)" />
+  </g>
+</svg>

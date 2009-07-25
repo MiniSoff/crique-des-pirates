@@ -1,0 +1,37 @@
+
+- Se débrouiller pour passer en mode plein écran.
+- Se débrouiller pour redimensionner la carte en fonction de la taille de la fenêtre.
+- rajouter une ile
+- mettre les iles dans un enum pour recuperer le numero et le nom
+- rajouter des infos sur les iles nom + num
+- Réaliser les objets bateaux.
+
+- doxygen 
+
+- modèle des joueurs, cartes, ...
+- pirates de légende, royal navy (voir avec les cartes)
+
+- recuperer les infos des cartes
+- prevoir la distribtion des cartes (random pour les distribues, mais lister les cartes tombées)
+
+- Réaliser le graphique décrivant les états et leurs transitions (semble réalisé ?)
+
+- Intégrer le framework des machines à état au code ok
+- Mettre en place un premier exemple de machine à état ok
+
+- Réaliser le méchanisme lié au tirage des cartes (signaux coté carte et slot côté joueur, bateau...)
+- Réaliser les connexions entre chaque carte et l'état de chaque "joueur" (humain ou non)
+- mettre en place une api pour les méthodes appelées par l'intelligence artificielle (.h)
+
+- Réaliser l'interface (fiches navires...) 
+
+- finir l'interface pour rajouter les infos sur les autres joueurs
+
+
+
+Bonus :
+
+- Styliser l'interface (boutons...) en SVG pour avoir un look vraiment sympa 
+- Réaliser des animations (déplacement des bateaux, colisions...)
+
+
