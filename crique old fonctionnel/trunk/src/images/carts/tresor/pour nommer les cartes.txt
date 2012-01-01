@@ -1,0 +1,11 @@
+chaque carte tresor comporte 4 infos
+
+renommee			
+doublons
+coffres
+cartes taverne
+
+nom de la carte : 
+
+tresor_renommee_doublons_coffres_taverne.svg
+

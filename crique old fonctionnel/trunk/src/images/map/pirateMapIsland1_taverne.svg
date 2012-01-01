@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="585.5144"
+   height="489.34912"
+   id="svg3183"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="pirateMapIsland1_taverne.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs3185">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3191" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="254.6523"
+     inkscape:cy="198.35086"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="695"
+     inkscape:window-height="667"
+     inkscape:window-x="385"
+     inkscape:window-y="21" />
+  <metadata
+     id="metadata3188">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-544.8759,801.01934)">
+    <path
+       style="fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.54239749999999990;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1128.1191,-315.9679 L 662.52689,-313.94143 L 548.18385,-526.70518 L 547.1471,-754.65885 L 702.76287,-798.74814 L 731.63887,-775.67554 L 695.63833,-730.43369 L 844.78841,-774.58528 L 899.65259,-764.28765 L 857.24909,-725.62019 L 902.38341,-712.15991 L 970.42999,-727.78592 L 969.55153,-636.61691 L 1024.1335,-597.01494 L 1120.8677,-570.03209 L 1061.704,-469.65571 L 1128.1191,-315.9679 z"
+       id="path3284" />
+    <path
+       style="fill:#008000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 80,132.20626 C 98.201021,146.76206 97.142857,169.23028 97.142857,197.92055 C 97.142857,217.82215 80.320735,227.77492 85.714286,249.34912 C 90.572174,268.78067 138.93461,294.97865 154.28571,306.49198 C 165.02983,314.55006 168.57143,324.12016 168.57143,340.77769 C 168.57143,356.90598 168.85013,369.90652 174.28571,380.77769 C 180.34159,392.88944 187.82408,393.56871 194.28571,406.49198 C 202.90425,423.72906 238.10293,402.91478 248.57143,395.06341 C 263.18941,384.09992 271.38474,379.33816 288.57143,383.63484 C 303.08814,387.26401 317.66351,410.04333 325.71429,420.77769 C 335.80798,434.23595 331.91994,446.00061 348.57143,429.34912 C 365.33174,412.58881 375.24932,385.52837 394.28571,366.49198 C 407.9493,352.82839 417.14061,347.91999 434.28571,352.20626 C 459.64136,358.54518 460,340.53343 460,320.77769 C 460,304.3454 460,274.01664 460,269.34912 C 460,269.10898 418.76469,276.68524 400,257.92055 C 383.71789,241.63844 376.55981,209.87407 371.42857,189.34912 C 367.05075,171.83785 363.38648,155.38227 360,135.06341 C 358.9372,128.68661 310.57262,132.20626 302.85714,132.20626 C 285.35788,132.20626 268.76746,133.73285 254.28571,126.49198 C 234.85423,116.77623 228.57143,117.50789 228.57143,89.349121 C 228.57143,74.53355 211.51607,117.18439 197.14286,120.77769 C 182.91712,124.33413 161.06626,121.04426 148.57143,117.92055 C 129.37789,113.12217 121.38154,109.34912 100,109.34912 C 95.183317,109.34912 80.15956,132.00681 80,132.20626 z"
+       id="path2382"
+       transform="translate(544.8759,-801.01934)" />
+    <path
+       style="fill:#553200;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 302.85714,257.92055 C 288.84969,247.41496 322.85714,288.98267 322.85714,306.49198 C 322.85714,330.47767 325.23185,334.58097 340,349.34912 C 352.66722,362.01634 386.85586,346.35008 394.28571,340.77769 C 406.18981,331.84962 384.93056,294.53267 382.85714,289.34912 C 375.10443,269.96733 357.77932,251.15011 345.71429,235.06341 C 332.02738,216.8142 328.57143,232.5356 328.57143,249.34912 C 328.57143,269.08929 319.83197,268.10545 302.85714,257.92055 z"
+       id="path3156"
+       transform="translate(544.8759,-801.01934)" />
+    <path
+       style="fill:#553300;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 168.57143,189.34912 C 190.09455,184.77067 185.71429,200.31001 185.71429,223.63484 C 185.71429,241.8583 194.15318,254.40072 197.14286,269.34912 C 199.34801,280.37489 214.92085,286.49198 225.71429,286.49198 C 246.23167,286.49198 242.85714,269.7932 242.85714,252.20626 C 242.85714,232.55228 244.79709,221.58932 248.57143,206.49198 C 249.62873,202.26277 213.95791,176.96041 211.42857,175.06341 C 205.04595,170.27644 174.1424,184.89234 168.57143,189.34912 z"
+       id="path3154"
+       transform="translate(544.8759,-801.01934)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="916.30444"
+       y="-343.09882"
+       id="text2380"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2384"
+         x="916.30444"
+         y="-343.09882">Taverne</tspan></text>
+  </g>
+</svg>
