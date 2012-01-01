@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="79">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df name="src" root=".">
+      <df name="debug">
+      </df>
+      <df name="images">
+        <df name="boats">
+        </df>
+        <df name="carts">
+          <df name="pirate_legende">
+          </df>
+          <df name="taverne">
+            <df name="artisan">
+            </df>
+            <df name="combat">
+              <df name="abordage">
+              </df>
+              <df name="combat">
+              </df>
+            </df>
+            <df name="evenement">
+            </df>
+            <df name="perroquet">
+            </df>
+            <df name="renommee">
+            </df>
+          </df>
+          <df name="tresor">
+          </df>
+        </df>
+        <df name="map">
+        </df>
+        <df name="old">
+        </df>
+      </df>
+      <df name="release">
+      </df>
+      <in>bateau.cpp</in>
+      <in>bateau.h</in>
+      <in>bateaupj.cpp</in>
+      <in>bateaupj.h</in>
+      <in>bateaupl.cpp</in>
+      <in>bateaupl.h</in>
+      <in>bateaupnj.cpp</in>
+      <in>bateaupnj.h</in>
+      <in>bateaupnj2.cpp</in>
+      <in>bateaupnj2.h</in>
+      <in>cartetresor.cpp</in>
+      <in>cartetresor.h</in>
+      <in>combats.cpp</in>
+      <in>combats.h</in>
+      <in>des.cpp</in>
+      <in>des.h</in>
+      <in>factory.cpp</in>
+      <in>factory.h</in>
+      <in>ile.cpp</in>
+      <in>ile.h</in>
+      <in>main.cpp</in>
+      <in>mainpiratemap.cpp</in>
+      <in>mainpiratemap.h</in>
+      <in>mainwindow.cpp</in>
+      <in>mainwindow.h</in>
+      <in>moveboatstate.cpp</in>
+      <in>moveboatstate.h</in>
+      <in>newclass.cpp</in>
+      <in>newclass.h</in>
+      <in>partie.cpp</in>
+      <in>partie.h</in>
+      <in>pirateMapBackground.h</in>
+      <in>piratemapbackground.cpp</in>
+      <in>piratemapboat.cpp</in>
+      <in>piratemapboat.h</in>
+      <in>piratemapcartetresor.cpp</in>
+      <in>piratemapcartetresor.h</in>
+      <in>piratemapisland.cpp</in>
+      <in>piratemapisland.h</in>
+      <in>qcomboboxdestination.cpp</in>
+      <in>qcomboboxdestination.h</in>
+      <in>sortbateaubyvoile.cpp</in>
+      <in>sortbateaubyvoile.h</in>
+      <in>tour.cpp</in>
+      <in>tour.h</in>
+      <in>ui_dialog.h</in>
+      <in>ui_mainwindow.h</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+      <itemPath>criquedespirates.pro</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath></executablePath>
+          <ccTool>
+            <incDir>
+              <pElem></pElem>
+              <pElem>c:/Qt/2010.05/qt/include/QtCore</pElem>
+              <pElem>c:/Qt/2010.05/qt/include/ActiveQt</pElem>
+              <pElem>c:/Qt/2010.05/qt/mkspecs/default</pElem>
+              <pElem>c:/Qt/2010.05/qt/include/QtSvg</pElem>
+              <pElem>debug</pElem>
+              <pElem>c:/Qt/2010.05/qt/include/QtGui</pElem>
+              <pElem>c:/Qt/2010.05/qt/include</pElem>
+            </incDir>
+            <preprocessorList>
+              <Elem>QT_CORE_LIB</Elem>
+              <Elem>QT_DLL</Elem>
+              <Elem>QT_GUI_LIB</Elem>
+              <Elem>QT_LARGEFILE_SUPPORT</Elem>
+              <Elem>QT_NEEDS_QMAIN</Elem>
+              <Elem>QT_SVG_LIB</Elem>
+              <Elem>QT_THREAD_SUPPORT</Elem>
+              <Elem>UNICODE</Elem>
+            </preprocessorList>
+          </ccTool>
+        </makeTool>
+      </makefileType>
+      <item path="bateau.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="bateaupj.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="bateaupj.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="bateaupl.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="bateaupl.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="bateaupnj.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="bateaupnj.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="bateaupnj2.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="bateaupnj2.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="cartetresor.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="combats.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="des.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="factory.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="factory.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="ile.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="mainpiratemap.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="mainpiratemap.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="mainwindow.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="moveboatstate.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="moveboatstate.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="newclass.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="newclass.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="partie.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="piratemapbackground.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="piratemapboat.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="piratemapcartetresor.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="piratemapisland.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="qcomboboxdestination.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="qcomboboxdestination.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="sortbateaubyvoile.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="tour.cpp" ex="true" tool="1" flavor="0">
+      </item>
+      <item path="tour.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="ui_dialog.h" ex="true" tool="3" flavor="0">
+      </item>
+      <item path="ui_mainwindow.h" ex="true" tool="3" flavor="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
